@@ -1,0 +1,23 @@
+th, td {
+    font-size: 1.5em;
+    width: 200px;
+    text-align: center;
+}
+
+table, th, td {
+    border: 0.6px solid black;
+
+}
+
+.header {
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+}
+
+.footer {
+    background: linear-gradient(#e66465, #9198e5);
+}
+
+table {
+    border-collapse: collapse;
+}

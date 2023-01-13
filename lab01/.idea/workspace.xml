@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7a702c5-8152-43ba-b3cd-2a43e01b27bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab02/src/Task01/Counter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab02/src/Task02/TeamsList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/src/Task01/Task01.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/src/Task01/Task01.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/src/Task02/Task02.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/src/Task02/Task02.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/src/Task04/Task04.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/src/Task04/Task04.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/src/index.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EOChJKGG03y6dpHU6NOiNWn8nu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/__My/__5-SEM/React.js/lab01",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\__My\__5-SEM\React.js\lab01\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7a702c5-8152-43ba-b3cd-2a43e01b27bd" name="Changes" comment="" />
+      <created>1662457367748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662457367748</updated>
+      <workItem from="1662457373027" duration="23433000" />
+      <workItem from="1662537315833" duration="5676000" />
+      <workItem from="1662632736010" duration="6628000" />
+      <workItem from="1663657098906" duration="714000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
